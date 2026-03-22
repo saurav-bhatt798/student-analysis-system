@@ -243,13 +243,13 @@ video {
   transition: all ease 0.6s;
 }
 #card1{
-    background-image: url("images/zinetsu.jpeg");
+    background-image: url("zinetsu.jpeg");
 }
 #card2{
-    background-image: url("images/WhatsApp Image 2026-03-21 at 10.53.29 PM.jpeg");
+    background-image: url("WhatsApp Image 2026-03-21 at 10.53.29 PM.jpeg");
 }
 #card3{
-    background-image: url("images/WhatsApp Image 2026-03-21 at 10.53.47 PM.jpeg");
+    background-image: url("WhatsApp Image 2026-03-21 at 10.53.47 PM.jpeg");
 }
 .overlay {
   height: 100%;
